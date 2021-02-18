@@ -53,6 +53,7 @@ namespace KomodoCafe_Repo
                 }
 
             }
+            // console write this
             throw new Exception("You've picked an invalid meal number");
         }
 
